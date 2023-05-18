@@ -10,8 +10,8 @@ function Footer() {
             <i className="fa-brands fa-youtube"></i>
           </div>
           <div className="footer-content__text">
-            <p>Privacy</p>
-            <p>Terms of Use</p>
+            <p>Privacy Policy</p>
+            <p>Terms of Service</p>
           </div>
         </div>
       </footer>
