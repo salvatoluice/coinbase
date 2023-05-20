@@ -22,6 +22,11 @@ footer {
   text-align: center;
   align-items: center;
 
+  .text_center {
+    padding-top: 1rem;
+    font-size: 1rem;
+  }
+
   &__socials {
     display: flex;
     gap: 3rem;
@@ -41,6 +46,8 @@ footer {
       }
     }
   }
+
+  
 
   &__text {
     font-size: $text-mini;

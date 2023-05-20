@@ -15,6 +15,9 @@ function Footer() {
             <p>Contact</p>
             <p>About Us</p>
           </div>
+          <div style={{paddingTop: '1rem', fontSize: '22px', color: '#fff'}}>
+            <p style={{fontSize: '22px'}}>Developed by <a href="https://salvatoluiz.netlify.app/" target="_blank">Salvato Luis</a></p>
+          </div>
         </div>
       </footer>
     </>

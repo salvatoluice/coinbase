@@ -48,8 +48,8 @@ function Navbar() {
             </li>
           </ul>
           <span>
-            <i className="fa-brands fa-twitter"></i>
-            <i className="fa-brands fa-discord"></i>
+            <a href="https://twitter.com/LuiceSalvato"><i className="fa-brands fa-twitter"></i></a>
+            <a href="https://github.com/salvatoluice"><i className="fa-brands fa-github"></i></a>
             {/* mobile */}
             <i
               onClick={openMobile}
